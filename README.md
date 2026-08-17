@@ -1,4 +1,3 @@
-🔐 CodeAlpha Cybersecurity Internship Projects
 
 This repository contains all tasks completed during my CodeAlpha Cybersecurity Internship. The projects focus on network security, secure coding, and cyber awareness, providing practical experience in real-world security concepts.
 
@@ -120,4 +119,5 @@ Real-world practical implementations
 Well-structured and documented code
 🤝 Acknowledgment
 
+Thanks to CodeAlpha for providing this internship opportunity and hands-on experience in cybersecurity.
 Thanks to CodeAlpha for providing this internship opportunity and hands-on experience in cybersecurity.
